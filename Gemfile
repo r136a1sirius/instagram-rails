@@ -43,7 +43,7 @@ gem 'rails-ujs', '~> 0.1.0'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 # image uploads to Amazon S3
-gem 'carrierwave', '~> 2.0', '>= 2.0.2'
+gem 'carrierwave', '~> 2.1'
 gem 'fog', '~> 2.2'
 
 # image resizing
